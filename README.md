@@ -14,6 +14,7 @@ Peticion:
 http://localhost:8080/suggestions?q=London
 
 Respuesta:
+```json
 {
   "suggestions": [
     {
@@ -60,6 +61,7 @@ Respuesta:
     }
   ]
 }
+```
 
 
 
@@ -68,8 +70,7 @@ Peticion:
 http://localhost:8080/suggestions?q=London
 
 Respuesta:
-
-
+```json
 {
   "suggestions": [
     {
@@ -92,12 +93,13 @@ Respuesta:
     }
   ]
 }
+```
 
 ## Ejemplo 3:
 http://localhost:8080/suggestions?q=Lakeside
 
 Respuesta:
-
+```json
 {
   "suggestions": [
     {
@@ -120,6 +122,7 @@ Respuesta:
     }
   ]
 }
+```
 
 
 
