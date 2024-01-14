@@ -1,5 +1,18 @@
 # Challenge
 
+## Pre-Requisitos.
+Este proyecto se creo utilizando:
+<ol>
+  <li>openjdk version "17.0.9" 2023-10</li>
+  <li>Apache Maven 3.9.6</li>
+  <li>Visual Studio Code. Version: 1.85.1 (Universal)</li>
+</ol>
+
+Respecto al framework:
+<ol>
+  <li>sspring boot. Ver.3.2.0</li>
+</ol>
+
 ## Pasos para ejecutar.
 ```console
 mvn clean install
