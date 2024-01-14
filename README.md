@@ -10,7 +10,7 @@ Este proyecto se creo utilizando:
 
 Respecto al framework:
 <ol>
-  <li>sspring boot. Ver.3.2.0</li>
+  <li>spring boot. Ver.3.2.0</li>
 </ol>
 
 ## Pasos para ejecutar.
