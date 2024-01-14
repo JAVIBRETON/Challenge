@@ -22,6 +22,7 @@ mvn spring-boot:run
 #Ejemplos.
 
 Podemos ver en los ejemplos scoress superior a 0.7, es la condicion para que la ciudad sea agregada.
+De igual manera, el orden lo da, de manera descendente la latitude.
 
 ## Ejemplo 1:
 Peticion:
