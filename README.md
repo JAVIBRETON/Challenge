@@ -1,9 +1,10 @@
 # Challenge
 
-## Pasos para ejecutar
+## Pasos para ejecutar.
+```console
 mvn clean install
 mvn spring-boot:run
-
+```
 
 #Ejemplos.
 
